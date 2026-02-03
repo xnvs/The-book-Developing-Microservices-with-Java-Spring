@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="/The-book-Developing-Microservices-with-Java-Spring/assets/css/custom.css">
-
 testing main page
 
 ## Документация
